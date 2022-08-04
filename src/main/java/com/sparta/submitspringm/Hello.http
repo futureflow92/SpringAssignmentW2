@@ -1,0 +1,11 @@
+GET http://localhost:8080/auth/api/comments
+#Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTY1OTU5NjE2MH0.ztRQaQG8pRBh-o0snJ6gfPHvZXABFIC8dvHuetl1cjrIrZW9YtEcNpFNPkZLiZsS8yKXeMTVFBvdthy8uSzBYw
+#  "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTY1OTU5NjE2MH0.ztRQaQG8pRBh-o0snJ6gfPHvZXABFIC8dvHuetl1cjrIrZW9YtEcNpFNPkZLiZsS8yKXeMTVFBvdthy8uSzBYw",
+#  "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2NjAxOTkxNjB9.N1jShEycVFrTx3XyzWW2Gm_KJbT9CMwkhP2zqlrBeR5CZhbJCSqwB_GycIySweNiIvDwWGpLoGfBUTqE7aCITw",
+#  "accessTokenExpiresIn": 1659596160292
+#Content-Type: application/json
+#
+#{
+#  "username": "test1",
+#  "password": "123"
+#}
